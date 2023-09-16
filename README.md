@@ -1,8 +1,8 @@
-<h1 align="center">Hello 👋, I'm ha yu kyeong</h1>
+
 
 - 📝 블로그 [https://blog.naver.com/hn2cresent](https://blog.naver.com/hn2cresent)
 
-- 📫 나에게 연락하는 방법 **hayu6944@gmail.com**
+- 📫 이메일 **hayu6944@gmail.com**
 
 <p align="left"></p>
 <h3 align="left">Languages and Tools:</h3>
