@@ -2,7 +2,7 @@
 
 - 📝 블로그 [https://blog.naver.com/hn2cresent](https://blog.naver.com/hn2cresent)
 
-- 📫 이메일 **hayu6944@gmail.com**
+- 📫 이메일 **hayu6944@nate.com**
 
 <p align="left"></p>
 <h3 align="left">Languages and Tools:</h3>
